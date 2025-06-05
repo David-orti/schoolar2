@@ -12,6 +12,7 @@
   border-left: $caret-width solid transparent;
 }
 
+
 @mixin caret-right() {
   border-top: $caret-width solid transparent;
   border-right: 0;

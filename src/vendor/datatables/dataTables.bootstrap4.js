@@ -10,7 +10,8 @@
  * controls using Bootstrap. See http://datatables.net/manual/styling/bootstrap
  * for further information.
  */
-(function( factory ){
+(function( factory )
+ {
 	if ( typeof define === 'function' && define.amd ) {
 		// AMD
 		define( ['jquery', 'datatables.net'], function ( $ ) {

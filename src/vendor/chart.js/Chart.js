@@ -16,6 +16,7 @@ function createCommonjsModule(fn, module) {
 	return module = { exports: {} }, fn(module, module.exports), module.exports;
 }
 
+
 function getCjsExportFromNamespace (n) {
 	return n && n['default'] || n;
 }
