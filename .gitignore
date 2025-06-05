@@ -1,4 +1,5 @@
 # Logs
+# Integrar la plantilla boostrap con el punto final de registro
 logs
 *.log
 npm-debug.log*

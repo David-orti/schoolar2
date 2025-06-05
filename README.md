@@ -1,5 +1,5 @@
 # 📚 App Escolar
-
+-schoolar2
 ¡Bienvenido a la **App Escolar**! Esta aplicación ha sido diseñada para facilitar la gestión escolar de manera eficiente y moderna, utilizando tecnologías robustas y un diseño amigable.
 
 ---
